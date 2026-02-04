@@ -1,4 +1,5 @@
-# Privacy Policy　(English) — OpenRoof: Care Tracker
+# Privacy Policy　(English) 
+# OpenRoof: Care Tracker
 
 Effective Date: January 28, 2026
 
@@ -144,7 +145,8 @@ If you have questions or requests regarding privacy or data handling, contact:
 - Developer/Company: Grace and Analytics
 - Email: grace.and.analytics@gmail.com
 
-# プライバシーポリシー (日本語) — オープンルーフ：ケア記録
+# プライバシーポリシー (日本語) 
+# オープンルーフ：ケア記録
 
 発効日: 2026年1月28日
 
